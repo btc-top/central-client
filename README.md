@@ -3,6 +3,12 @@ central-client
 
 central client sdk
 
+install: 
+
+```shell script
+npm i @btctop/central-client
+```
+
 usage:
 
 ```javascript
