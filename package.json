@@ -1,7 +1,8 @@
 {
   "name": "@btctop/central-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "central client sdk",
+  "man": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
