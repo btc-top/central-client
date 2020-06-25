@@ -26,4 +26,5 @@ const data = { pool: 1 };
 const method = 'POST';
 
 const result = await client.call(path, data, method);
+const { code, data, message } = result;
 ```
