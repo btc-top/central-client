@@ -61,7 +61,7 @@ class Client {
         }
 
         if (isRawOutput) {
-            return response.text();
+            return response.buffer();
         }
         return response.json();
     }
