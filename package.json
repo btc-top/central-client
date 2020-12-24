@@ -1,6 +1,6 @@
 {
   "name": "@btctop/central-client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "central client sdk",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
